@@ -38,62 +38,49 @@ Hi, I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveragi
 
 **"SneakerXchange: Enhancing User Experience through HCI Principles in a Reselling Website"**  
 *ICICC 2026 (Springer LNNS) — Accepted (Top 15%)*
-
 ---
-## 💼 Work Experience
+<details open>
+<summary><b>💼 Work Experience</b></summary>
 
-<table>
-<tr>
-<td width="50%">
+```text
+Fractal Analytics — Data Scientist
+Sep 2024 – Present | Bangalore, India
 
-### Fractal Analytics
-**Data Scientist** | *Sep 2024 - Present*
-```yaml
-Focus: GenAI & Agentic AI Systems
-Stack: AWS, LangChain, CrewAI, RAG
-Clients: BHP, Carrier, Molina Healthcare
+• Behavioural Data Science (BHP Australia)
+  - GenAI-driven safety risk modeling
+  - Cognitive & behavioral analytics with neuroscience inputs
+
+• Order Automation (Carrier | AWS GenAI)
+  - Vision-Language Models: AWS Nova, Claude, Mistral
+  - PDF ingestion, RAG, embedding-based retrieval
+
+• Agentic AI Systems (Molina Healthcare)
+  - LLM-based agents and orchestration layers
+  - Latency and compute optimization
+
+• Multi-Agent Workflows (Cogentiq AI)
+  - LangGraph, CrewAI, Python
+  - Claim validation via prompt-engineered LLMs
+
+• Customer Service Automation (Flyfish AI)
+  - ChromaDB + Elasticsearch RAG pipelines
+  - Production LLM tuning
+
+C-DOT — Data Science Intern
+Jan 2024 – Jun 2024 | Delhi, India
+
+• Deep learning–based biometric face recognition
+• Multimodal disaster management dashboard (Power BI)
+• Social media data ingestion for crisis intelligence
+
+KG4ASTRA Extension Programme — Data Engineering Researcher
+Jun 2023 – Dec 2023 | Remote
+
+• Ontology & hierarchy graph construction (Neo4j, Protégé)
+• Custom NLP model for missile classification
 ```
+</details>
 
-**Key Deliverables:**
-- GenAI-driven behavioral safety analytics
-- Vision-Language Models for OCR automation
-- Multi-agent orchestration pipelines
-- Production RAG systems with ChromaDB
-
-</td>
-<td width="50%">
-
-### C-DOT
-**Data Science Intern** | *Jan 2024 - Jun 2024*
-```yaml
-Focus: Computer Vision & BI Analytics
-Stack: Deep Learning, Power BI, Python
-Domain: Biometrics & Disaster Management
-```
-
-**Key Deliverables:**
-- Biometric face recognition system
-- Multimodal disaster dashboard
-- Social media crisis data integration
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### KG4ASTRA Extension Programme
-**Data Engineering Researcher** | *Jun 2023 - Dec 2023*
-```yaml
-Focus: Knowledge Graphs & NLP
-Stack: Neo4j, Protege5.5, Custom NLP Models
-Domain: Defense & Aerospace Classification
-```
-
-**Key Deliverables:** Ontology graphs for missile classification | Custom NLP segmentation model
-
-</td>
-</tr>
-</table>
 ---
 
 ## 🛠️ Tech Stack
