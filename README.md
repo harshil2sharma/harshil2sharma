@@ -20,7 +20,7 @@
 Hi, I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveraging **Generative AI**, **Machine Learning**, and **Data Science** to solve real-world problems. With a background in Computer Science and specialization in Data Science from **Symbiosis Institute of Technology**, I focus on building intelligent systems that make a difference.
 
 🔭 Working on:
-- 🍕 Making GenAI-driven Behavioural Data Science basically making AI understand workplace safety better than I understand my own sleep schedule
+- 🍕 Making GenAI-driven Behavioural Data Science understand workplace safety better than I understand my own sleep schedule
 - 🌱 Exploring **Multi-Agent Orchestration**, **RAG Pipelines**, and **Agentic AI** architectures
 - 🎯 learning, building, and experimenting with cutting-edge AI technologies
 
