@@ -1,6 +1,6 @@
 <div align="center">
   
-<div class="tenor-gif-embed" data-postid="26713547" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/calm-and-relaxing-place-wallpaper-gifs-gif-26713547">Calm And Relaxing Place Wallpaper Gifs GIF</a>from <a href="https://tenor.com/search/calm+and+relaxing+place-gifs">Calm And Relaxing Place GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="calm-and-relaxing-place-wallpaper-gifs.gif" width="100%" alt="Banner"/>
 
 <br/>
 
