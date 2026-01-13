@@ -30,45 +30,67 @@ Hi, I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveragi
 ## ⚡ Secret superpower: Converting caffeine into functioning neural networks and late-night debugging sessions into "learning experiences" ✨
 ---
 
-## 💼 Professional Experience
+## 📝 Publications
 
-### 🏢 **Fractal Analytics** | Data Scientist
-*September 2024 - Present | Bangalore, India*
+**"SneakerXchange: Enhancing User Experience through HCI Principles in a Reselling Website"**  
+*ICICC 2026 (Springer LNNS) — Accepted (Top 15%)*
 
-#### 🎯 Key Projects:
+---
 
-**🔹 BHP Australia - Behavioural Data Science for Workplace Safety**
-- Leading GenAI initiative to reduce workplace fatalities using data-driven insights
-- Partnering with neuroscience experts for cognitive behavioral modeling
-- Designing GenAI-powered solutions combining advanced analytics and generative AI
+## 💼 Work Experience
 
-**🔹 Carrier - Order Automation using AWS GenAI Vision Models**
-- Developed GenAI pipeline for structured data extraction from PDF receipts
-- Implemented Vision-Language Models (AWS Nova, Claude, Mistral)
-- Applied RAG, prompt engineering, and embedding-based retrieval
+<table>
+<tr>
+<td width="50%">
 
-**🔹 Molina Healthcare - Full-Stack POC with Agentic AI**
-- Built backend components for LLM-based agents and Agentic AI architectures
-- Optimized code for improved computational efficiency and reduced latency
+### Fractal Analytics
+**Data Scientist** | *Sep 2024 - Present*
+```yaml
+Focus: GenAI & Agentic AI Systems
+Stack: AWS, LangChain, CrewAI, RAG
+Clients: BHP, Carrier, Molina Healthcare
+```
 
-**🔹 Cogentiq AI - Multi-Agent Orchestration**
-- Built workflows with Python, LangGraph, and Crew AI
-- Deployed LLMs with custom prompts for claim validation
+**Key Deliverables:**
+- GenAI-driven behavioral safety analytics
+- Vision-Language Models for OCR automation
+- Multi-agent orchestration pipelines
+- Production RAG systems with ChromaDB
 
-**🔹 Flyfish AI - Customer Service Automation**
-- Implemented RAG pipelines with ChromaDB and Elasticsearch
-- Optimized bot architecture and LLM parameters for production
+</td>
+<td width="50%">
 
-### 🔬 **C-DOT** | Data Science Intern
-*January 2024 - June 2024 | Delhi, India*
-- Developed biometric face recognition system using deep learning
-- Created Multimodal Disaster Management Dashboard in Power BI
-- Integrated social media data for crisis information extraction
+### C-DOT
+**Data Science Intern** | *Jan 2024 - Jun 2024*
+```yaml
+Focus: Computer Vision & BI Analytics
+Stack: Deep Learning, Power BI, Python
+Domain: Biometrics & Disaster Management
+```
 
-### 🔍 **KG4ASTRA Extension Programme** | Data Engineering Researcher
-*June 2023 - December 2023 | Remote*
-- Built ontology and hierarchy graphs using Neo4j and Protege5.5
-- Developed custom NLP model for missile classification
+**Key Deliverables:**
+- Biometric face recognition system
+- Multimodal disaster dashboard
+- Social media crisis data integration
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### KG4ASTRA Extension Programme
+**Data Engineering Researcher** | *Jun 2023 - Dec 2023*
+```yaml
+Focus: Knowledge Graphs & NLP
+Stack: Neo4j, Protege5.5, Custom NLP Models
+Domain: Defense & Aerospace Classification
+```
+
+**Key Deliverables:** Ontology graphs for missile classification | Custom NLP segmentation model
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -199,14 +221,6 @@ Designed fully functional **e-commerce website prototype** in Figma applying **H
 An interactive **Power BI dashboard** for comprehensive Netflix Movies and Series Analysis. Data visualization and business intelligence project.
 
 **Tech Stack:** Power BI • Data Visualization • Business Analytics
-
----
-
-## 📝 Publications
-
-**"SneakerXchange: Enhancing User Experience through HCI Principles in a Reselling Website"**  
-*ICICC 2026 (Springer LNNS) — Accepted (Top 15%)*
-
 
 ---
 
