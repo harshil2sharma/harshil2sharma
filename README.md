@@ -1,12 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Harshil+Sharma+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</div>
+  
+<div class="tenor-gif-embed" data-postid="26713547" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/calm-and-relaxing-place-wallpaper-gifs-gif-26713547">Calm And Relaxing Place Wallpaper Gifs GIF</a>from <a href="https://tenor.com/search/calm+and+relaxing+place-gifs">Calm And Relaxing Place GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-<div align="center">
+<br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Harshil+Sharma+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  
+  <br/>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-sharma-002ms2012/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshil2012sharma@gmail.com)
-
+  
 </div>
 
 ---
@@ -36,7 +40,6 @@ Hi, I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveragi
 *ICICC 2026 (Springer LNNS) — Accepted (Top 15%)*
 
 ---
-
 ## 💼 Work Experience
 
 <table>
@@ -91,7 +94,6 @@ Domain: Defense & Aerospace Classification
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
