@@ -36,8 +36,10 @@ Hi, I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveragi
 
 ## 📝 Publications
 
-**"SneakerXchange: Enhancing User Experience through HCI Principles in a Reselling Website"**  
-*ICICC 2026 (Springer LNNS) — Accepted (Top 15%)*
+[2026] **SneakerXchange: Enhancing User Experience through HCI Principles in a Reselling Website**
+       *ICICC 2026 — Springer LNNS (Accepted, Top 15%)*
+       Authors: Harshil Sharma, Ojasv Issar, Arishi Agarwal, Sudhanshu Gonge
+
 ---
 <details open>
 <summary><b>💼 Work Experience</b></summary>
