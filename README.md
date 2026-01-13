@@ -15,11 +15,19 @@
 
 Hi, I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveraging **Generative AI**, **Machine Learning**, and **Data Science** to solve real-world problems. With a background in Computer Science and specialization in Data Science from **Symbiosis Institute of Technology**, I focus on building intelligent systems that make a difference.
 
-- 🔭 Currently working on **GenAI-driven Behavioural Data Science** for workplace safety at BHP Australia
+🔭 Working on:
+- 🍕 Making AI understand workplace safety better than I understand my own sleep schedule
 - 🌱 Exploring **Multi-Agent Orchestration**, **RAG Pipelines**, and **Agentic AI** architectures
-- 💡 Interested in **LLMOps**, **MLOps**, and production-ready AI systems
-- 🎯 Always learning, building, and experimenting with cutting-edge AI technologies
+- 🎯 Building RAG pipelines (no, not the cleaning kind, the cool AI kind 🚀)
 
+💡 Fun facts about me:
+- I speak fluent Python, broken English, and sarcasm 🐍
+- My code is like my cooking - sometimes amazing, sometimes "let's order pizza" 🍕
+- I can debug code faster than I can find matching socks 🧦
+- Machine Learning enthusiast who still can't predict when my code will actually work on the first try 📊
+- Blockchain believer who's still trying to explain it to my parents 🔗
+
+⚡ Secret superpower: Converting caffeine into functioning neural networks and late-night debugging sessions into "learning experiences" ✨
 ---
 
 ## 💼 Professional Experience
