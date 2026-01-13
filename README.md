@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveraging **Generative AI**, **Machine Learning**, and **Data Science** to solve real-world problems. With a background in Computer Science and specialization in Data Science from **Symbiosis Institute of Technology**, I focus on building intelligent systems that make a difference.
+Hi, I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveraging **Generative AI**, **Machine Learning**, and **Data Science** to solve real-world problems. With a background in Computer Science and specialization in Data Science from **Symbiosis Institute of Technology**, I focus on building intelligent systems that make a difference.
 
 - 🔭 Currently working on **GenAI-driven Behavioural Data Science** for workplace safety at BHP Australia
 - 🌱 Exploring **Multi-Agent Orchestration**, **RAG Pipelines**, and **Agentic AI** architectures
@@ -105,11 +105,6 @@ I'm a **Data Scientist** at **Fractal Analytics**, passionate about leveraging *
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil2sharma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil2sharma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil2sharma&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -153,7 +148,7 @@ Built predictive **urban financial model** using data analysis to tackle metropo
 
 <div align="center">
 
-[![Climate Forecasting](https://img.shields.io/badge/🌍_Climate_Change_Forecasting-View_Project-blueviolet?style=for-the-badge)](https://github.com/harshil2sharma/Climate-Change-Forecasting)
+[![Climate Forecasting](https://img.shields.io/badge/🌍_Climate_Change_Forecasting-View_Project-blueviolet?style=for-the-badge)](https://github.com/Ojasv-Issar/Climate-Change-Forecasting)
 
 </div>
 
@@ -165,7 +160,7 @@ Implemented **regression-based forecasting** analyzing **250 years** of historic
 
 <div align="center">
 
-[![NYC Airbnb Analysis](https://img.shields.io/badge/🏙️_New_York_Airbnb_Analysis-View_Project-blueviolet?style=for-the-badge)](https://github.com/harshil2sharma/New-York-Airbnb-Analysis)
+[![NYC Airbnb Analysis](https://img.shields.io/badge/🏙️_New_York_Airbnb_Analysis-View_Project-blueviolet?style=for-the-badge)](https://github.com/Ojasv-Issar/New-York-AIRBNB-Analysis)
 
 </div>
 
@@ -189,7 +184,7 @@ Designed fully functional **e-commerce website prototype** in Figma applying **H
 
 <div align="center">
 
-[![Netflix Analytics](https://img.shields.io/badge/🎬_Netflix_Analytics_Dashboard-View_Project-blueviolet?style=for-the-badge)](https://github.com/harshil2sharma/Netflix_Analytics_Dashboard)
+[![Netflix Analytics](https://img.shields.io/badge/🎬_Netflix_Analytics_Dashboard-View_Project-blueviolet?style=for-the-badge)](https://github.com/Ojasv-Issar/Netflix-Analytics-Dashboard-)
 
 </div>
 
@@ -202,13 +197,13 @@ An interactive **Power BI dashboard** for comprehensive Netflix Movies and Serie
 ## 📝 Publications
 
 **"SneakerXchange: Enhancing User Experience through HCI Principles in a Reselling Website"**  
-*Accepted for presentation at the 9th International Conference on Innovative Computing & Communication (ICICC 2026)*
+*ICICC 2026 (Springer LNNS) — Accepted (Top 15%)*
+
 
 ---
 
 ## 🌟 Beyond Tech
 
-- 🎨 Active member of TED Club, Dance Club, Photography Club
 - 🏃‍♂️ Athletics enthusiast (marathons, cycling)
 - 🎭 Multiple competition wins in general knowledge, art, and dance
 - 👨‍🍳 Self-taught cook and baker
